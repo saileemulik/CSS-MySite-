@@ -1,0 +1,126 @@
+body
+{
+   margin: 0%;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    margin-top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: auto auto 50px 50px;
+    color: #66BFBF;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    color: #66BFBF;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:#66BFBF ;
+   
+}
+
+.Pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+   position:absolute;
+  top: 440px;
+  left: 240px;
+}
+.top-cloud{
+    position:absolute;
+    top:20px;
+    margin-left: 250px;
+ }
+.top-container{
+    position:relative;
+    padding-top: 100px;
+    background-color: #E4F9F5;
+}
+.middle-container{
+    margin: 100px 0;
+    background-color: white;
+   
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 3;
+    text-align: left;
+}
+.gif{
+   float: left;
+   margin-right: 30px;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-left: 20px;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.sai{
+    border-radius: 100%;
+    width: 150px;
+    height: 160px;
+}
+.profile{
+    background-color: white;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+.skills{
+    background-color: white;
+}
+.hot{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.contact-me{
+    margin-bottom: 100px;
+}
+.btn{
+    width: 180px;
+    background-color: #66BFBF;
+    margin-top: 30px;
+    color: white;
+    height: 50px;
+    border-radius: 10px;
+    font-size:20px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.btn:hover{
+    background-color: #2CCCB4; 
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 3% 15%;
+}
+.para{
+    color: #238080 ;
+    padding: 3% 2%;
+    display: inline;
+}
+.para:hover{
+    color: white;
+}
+.foot{
+    color: white;
+    font-size:small;
+    cursor: pointer;
+}
